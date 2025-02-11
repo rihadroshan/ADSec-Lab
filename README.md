@@ -11,7 +11,7 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 ## Environment Overview
 
 - **Domain**: Webcorp
-- **Network**: 192.168.1.0/24 (Internal)
+- **Internal Network**: 192.168.1.0/24 
 - **Components**:
   - Active Directory (192.168.1.7)
   - Splunk Server (192.168.1.6)
