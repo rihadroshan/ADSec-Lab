@@ -14,7 +14,7 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 - **Internal Network**: 192.168.1.0/24 
 - **Components**:
   - Active Directory (192.168.1.10)
-  - Splunk Server (192.168.1.6)
+  - Splunk Server (192.168.1.20)
   - Windows 10 Workstation (DHCP)
   - Kali Linux Machine (192.168.1.100)
 
