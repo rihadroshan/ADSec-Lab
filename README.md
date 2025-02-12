@@ -12,10 +12,20 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 - **Domain**: Webcorp
 - **Internal Network**: 192.168.1.0/24 
 - **Components**:
-  - Active Directory (192.168.1.10) - Windows Server 2022
-  - Splunk Server (192.168.1.20) - Ubuntu Server
-  - Windows 10 Workstation (DHCP)
-  - Kali Linux Machine (192.168.1.100)
+  1. **Active Directory Domain Controller**  
+     - **IP Address:** 192.168.1.10  
+     - **Operating System:** Windows Server 2022  
+
+  2. **Splunk Server**  
+     - **IP Address:** 192.168.1.20  
+     - **Operating System:** Ubuntu Server  
+
+  3. **Windows 10 Workstation**  
+     - **IP Address:** DHCP Assigned  
+
+  4. **Kali Linux Attacker Machine**  
+     - **IP Address:** 192.168.1.100  
+
 
 ## Features
 
