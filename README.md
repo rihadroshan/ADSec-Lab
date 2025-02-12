@@ -31,5 +31,5 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 - 250GB available storage
 - Windows Server ISO
 - Ubuntu Server ISO
-- Windows 10 ISO
+- Windows 10 ISO [https://www.microsoft.com/en-ca/software-download/windows10]
 - Kali Linux ISO
