@@ -13,7 +13,7 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 - **Domain**: Webcorp
 - **Internal Network**: 192.168.1.0/24 
 - **Components**:
-  - Active Directory (192.168.1.7)
+  - Active Directory (192.168.1.10)
   - Splunk Server (192.168.1.6)
   - Windows 10 Workstation (DHCP)
   - Kali Linux Machine (192.168.1.100)
