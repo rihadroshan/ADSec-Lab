@@ -6,7 +6,6 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 
 ![Network Infrastructure](./assets/network-diagram.png)
 
-*Network diagram showing the complete lab infrastructure with Active Directory, Splunk, and testing environment*
 
 ## Environment Overview
 
