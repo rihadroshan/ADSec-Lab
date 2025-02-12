@@ -29,7 +29,7 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 - VMware/VirtualBox
 - Minimum 16GB RAM recommended
 - 250GB available storage
-- Windows Server ISO
-- Ubuntu Server ISO
-- Windows 10 ISO [url](https://www.microsoft.com/en-ca/software-download/windows10)
-- Kali Linux ISO
+- Windows Server 2022 ISO [>url](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)
+- Ubuntu Server ISO [>url](https://ubuntu.com/download/server)
+- Windows 10 ISO [>url](https://www.microsoft.com/en-ca/software-download/windows10)
+- Kali Linux ISO [>url](https://www.kali.org/get-kali/#kali-installer-images)
