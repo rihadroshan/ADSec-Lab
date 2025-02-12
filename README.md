@@ -30,5 +30,6 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
 - Minimum 16GB RAM recommended
 - 250GB available storage
 - Windows Server ISO
+- Ubuntu Server ISO
 - Windows 10 ISO
 - Kali Linux ISO
