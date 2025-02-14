@@ -61,6 +61,12 @@ A comprehensive security lab environment designed for security testing, monitori
 
 ## **Security Monitoring & Attack Simulation**  
 
+- **Detection & Analysis:**
+  - Real-time correlation rules in Splunk
+  - MITRE ATT&CK mapping for detected techniques
+  - Historical search capabilities for forensic analysis
+  - Automated alerting for critical security events
+
 - **Sysmon Implementation:**  
   - Provides detailed process monitoring and security event logging.  
   - Logs forwarded to Splunk for centralized analysis.  
@@ -71,8 +77,8 @@ A comprehensive security lab environment designed for security testing, monitori
 
 - **Attack Simulations with Atomic Red Team:**  
   - Provides a structured framework for testing detection capabilities.  
-  - Generates simulated attack behaviors that can be analyzed in Splunk.  
-
+  - Generates simulated attack behaviors that can be analyzed in Splunk.
+ 
 ## **Prerequisites**  
 
 - **Hardware:**  
