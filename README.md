@@ -6,58 +6,58 @@ A comprehensive security lab environment designed for security testing, monitori
 
 ![Network Infrastructure](./assets/network-diagram.png)  
 
-### **Components**  
+### **Components**
 
-- **Domain:** Webcorp  
-- **Network Range:** 192.168.1.0/24  
-- **Key Systems:**  
-  - **Active Directory Domain Controller (Windows Server 2022)**
-    - IP Address: 192.168.1.10  
-    - Provides authentication, domain management, and centralized user access control.  
-  - **Splunk Server (Ubuntu Server)**
-    - IP Address: 192.168.1.20  
-    - Monitors logs and security events via Universal Forwarder.  
-  - **Windows 10 Pro Workstation**
-    - IP Address: DHCP Assigned  
-    - Simulates an endpoint within the domain for security monitoring and attack simulation.  
-  - **Kali Linux (Attacker Machine)**
-    - IP Address: 192.168.1.100  
-    - Used for security testing, penetration testing, and adversary simulations.  
+- **Domain:** Webcorp
+- **Network Range:** 192.168.1.0/24
+- **Key Systems:**
+  - **Active Directory Domain Controller** (Windows Server 2022)
+    - IP: 192.168.1.10
+    - Role: Authentication, GPO management, DNS services
+  - **Splunk SIEM** (Ubuntu Server)
+    - IP: 192.168.1.20
+    - Role: Log aggregation, event correlation, threat detection
+  - **Domain Workstation** (Windows 10 Pro)
+    - IP: DHCP Assigned
+    - Role: End-user simulation, security control testing
+  - **Attack Platform** (Kali Linux)
+    - IP: 192.168.1.100
+    - Role: Penetration testing, threat simulation
 
-## **Key Features**  
+## **Key Features**
 
-- **Active Directory Security Testing:** Simulated corporate environment with user roles, departments, and security policies.  
-- **Centralized Log Monitoring:** Splunk deployment with Sysmon and Universal Forwarder for real-time log collection.  
-- **Red Team/Blue Team Simulations:** Ability to conduct attack simulations using Atomic Red Team and analyze attack detection in Splunk.  
-- **Network Segmentation:** Controlled environment for security analysis and incident response exercises.  
+- **Realistic Enterprise Environment:** Simulated corporate infrastructure with proper user hierarchy, group policies, and security controls
+- **End-to-End Visibility:** Centralized logging with Sysmon and Splunk for comprehensive detection capabilities
+- **Red/Blue Team Training:** Dedicated platform for attack simulation and defensive response exercises
+- **Isolated Test Environment:** Self-contained network for safe security experimentation
 
-## **System Configuration**  
+## **System Configurations**
 
-### **Active Directory (Windows Server 2022)**  
+### **Domain Controller (Windows Server 2022)**
+- Domain: webcorp.local
+- Active Directory structure with realistic OUs (HR, IT, Finance, etc.)
+- Group Policy Objects for security baselines
+- DNS and DHCP services
+- Sysmon with enhanced logging configuration
 
-- Configured as the domain controller (`Webcorp`).  
-- Includes user groups and organizational units (HR, IT).  
-- Integrated with Sysmon for enhanced security logging.  
-- Supports Windows 10 workstations via domain join.  
+### **Splunk SIEM (Ubuntu Server)**
+- Splunk Enterprise deployment
+- Custom dashboards for security monitoring
+- Saved searches for common attack techniques
+- Alert configurations for suspicious activities
+- Universal Forwarder management
 
-### **Splunk Server (Ubuntu Server)**  
+### **Client Workstation (Windows 10 Pro)**
+- Domain-joined endpoint with simulated user profiles
+- Microsoft Office and common productivity tools
+- Sysmon and Universal Forwarder deployment
+- Vulnerable software for testing (configurable)
 
-- Deployed with Splunk Enterprise.  
-- Configured to collect logs from Windows endpoints using Universal Forwarder.  
-- Monitors Sysmon, Security, Application, and System logs.  
-- Implements event correlation for threat detection.  
-
-### **Windows 10 Pro Workstation**  
-
-- Functions as a domain-joined endpoint.  
-- Equipped with Sysmon and Splunk Universal Forwarder.  
-- Used for endpoint security monitoring and adversary simulations.  
-
-### **Kali Linux (Attacker Machine)**  
-
-- Configured for penetration testing and adversary simulations.  
-- Supports brute-force attacks, lateral movement, and RDP testing.  
-- Integrated with Atomic Red Team for controlled attack execution.  
+### **Attack Platform (Kali Linux)**
+- Preinstalled penetration testing tools
+- Atomic Red Team framework for attack automation
+- Custom scripts for common AD attacks
+- Metasploit Framework and other exploitation tools
 
 ## **Security Monitoring & Attack Simulation**  
 
