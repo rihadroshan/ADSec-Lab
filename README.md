@@ -94,6 +94,7 @@ A comprehensive security lab environment designed for security testing, monitori
 | Windows 10 Pro | [Microsoft Download](https://www.microsoft.com/en-ca/software-download/windows10) | Domain Workstation |
 | Kali Linux | [Kali Images](https://www.kali.org/get-kali/#kali-installer-images) | Attack Platform |
 | Splunk Enterprise | [Splunk Download](https://www.splunk.com/en_us/download/splunk-enterprise.html) | Security Monitoring |
+| Splunk Universal Forwarder    | [Splunk Universal Forwarder Download](https://www.splunk.com/en_us/download/universal-forwarder.html) | Log Forwarding to Splunk           |
 | Sysmon | [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) | Advanced Endpoint Logging |
 | SwiftOnSecurity Sysmon Config | [GitHub Repository](https://github.com/SwiftOnSecurity/sysmon-config) | Recommended Sysmon Configuration |
 | Atomic Red Team | [GitHub Repository](https://github.com/redcanaryco/atomic-red-team) | Attack Simulation Framework |
