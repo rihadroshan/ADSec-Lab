@@ -79,19 +79,17 @@ A comprehensive security lab environment designed for security testing, monitori
   - Minimum **16GB RAM** recommended.  
   - **250GB storage** for VM environments.  
 
-- **Software Requirements:**  
-  - Windows Server 2022 [Download](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022)  
-  - Ubuntu Server [Download](https://ubuntu.com/download/server)  
-  - Windows 10 Pro [Download](https://www.microsoft.com/en-ca/software-download/windows10)  
-  - Kali Linux [Download](https://www.kali.org/get-kali/#kali-installer-images)  
+## **Downloads & Resources**
 
-## **Relevant Downloads**  
+| **Component** | **Download Link** | **Purpose** |
+|---------------|-------------------|-------------|
+| Windows Server 2022 | [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022) | Domain Controller |
+| Ubuntu Server | [Ubuntu Downloads](https://ubuntu.com/download/server) | Splunk SIEM Platform |
+| Windows 10 Pro | [Microsoft Download](https://www.microsoft.com/en-ca/software-download/windows10) | Domain Workstation |
+| Kali Linux | [Kali Images](https://www.kali.org/get-kali/#kali-installer-images) | Attack Platform |
+| Splunk Enterprise | [Splunk Download](https://www.splunk.com/en_us/download/splunk-enterprise.html) | Security Monitoring |
+| Sysmon | [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) | Advanced Endpoint Logging |
+| SwiftOnSecurity Sysmon Config | [GitHub Repository](https://github.com/SwiftOnSecurity/sysmon-config) | Recommended Sysmon Configuration |
+| Atomic Red Team | [GitHub Repository](https://github.com/redcanaryco/atomic-red-team) | Attack Simulation Framework |
 
-| **Tool**                          | **Download Link** |
-|-----------------------------------|------------------|
-| **Sysmon (System Monitor)**       | [Sysmon Download](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) |
-| **Sysmon Config (Modular Ruleset)** | [Sysmon Config](https://raw.githubusercontent.com/olafhartong/sysmon-modular/refs/heads/master/sysmonconfig.xml) |
-| **Splunk Enterprise**             | [Splunk Download](https://www.splunk.com/en_us/download/splunk-enterprise.html) |
-| **Splunk Universal Forwarder**    | [Universal Forwarder Download](https://www.splunk.com/en_us/download/universal-forwarder.html) |
-| **Atomic Red Team (Attack Simulation)** | [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) |
  
