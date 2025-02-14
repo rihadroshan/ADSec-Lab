@@ -20,7 +20,7 @@ A comprehensive security lab environment featuring Active Directory, Splunk moni
      - **IP Address:** 192.168.1.20  
      - **Operating System:** Ubuntu Server  
 
-  3. **Windows 10 Workstation Pro**  
+  3. **Windows 10 Pro Workstation**  
      - **IP Address:** DHCP Assigned  
 
   4. **Kali Linux Attacker Machine**  
