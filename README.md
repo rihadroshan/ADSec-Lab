@@ -93,7 +93,7 @@ A comprehensive security lab environment designed for security testing, monitori
 | Ubuntu Server | [Ubuntu](https://ubuntu.com/download/server) | Splunk SIEM Platform |
 | Windows 10 Pro | [Windows 10 Pro](https://www.microsoft.com/en-ca/software-download/windows10) | Domain Workstation |
 | Kali Linux | [Kali Images](https://www.kali.org/get-kali/#kali-installer-images) | Attack Platform |
-| Splunk Enterprise | [Splunk](https://www.splunk.com/en_us/download/splunk-enterprise.html) | Security Monitoring |
+| Splunk Enterprise | [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html) | Security Monitoring |
 | Splunk Universal Forwarder    | [Splunk Universal Forwarder](https://www.splunk.com/en_us/download/universal-forwarder.html) | Log Forwarding to Splunk           |
 | Sysmon | [Microsoft Sysinternals](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) | Advanced Endpoint Logging |
 | Atomic Red Team | [GitHub Repository](https://github.com/redcanaryco/atomic-red-team) | Attack Simulation Framework |
