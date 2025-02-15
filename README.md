@@ -14,7 +14,7 @@ A comprehensive security lab environment designed for security testing, monitori
   - **Active Directory Domain Controller** (Windows Server 2022)
     - IP: 192.168.1.10
     - Role: Authentication, GPO management, DNS services
-  - **Splunk Enterprise SIEM** (Ubuntu Server)
+  - **Splunk (SIEM)** (Ubuntu Server)
     - IP: 192.168.1.20
     - Role: Log aggregation, event correlation, threat detection
   - **Domain Workstation** (Windows 10 Pro)
