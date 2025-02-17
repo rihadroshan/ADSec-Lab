@@ -33,7 +33,7 @@ A comprehensive security lab environment designed for security testing, monitori
 
 ## **System Configurations**
 
-### **Domain Controller (Windows Server 2022)**
+### **Domain Controller (Windows Server 2025)**
 - Domain: webcorp.local
 - Active Directory structure with realistic OUs (HR, IT, Finance, etc.)
 - Group Policy Objects for security baselines
