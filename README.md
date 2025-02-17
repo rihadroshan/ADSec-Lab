@@ -73,7 +73,9 @@ A comprehensive security lab environment designed for security testing, monitori
 
 - **Splunk Configuration:**  
   - Collects and indexes logs from Windows and Linux endpoints.  
-  - Detects anomalous activities and generates security alerts.  
+  - Detects anomalous activities and generates security alerts.
+  - Universal Forwarder Configuration:
+    - The Splunk Universal Forwarder is configured using [inputs.conf](inputs.conf). 
 
 - **Attack Simulations with Atomic Red Team:**  
   - Provides a structured framework for testing detection capabilities.  
