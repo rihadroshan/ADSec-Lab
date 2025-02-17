@@ -40,6 +40,8 @@ A comprehensive security lab environment designed for security testing, monitori
 - DNS and DHCP services
 - Sysmon with enhanced logging configuration
 
+![ADDepartments](./assets/add.png)  
+
 ### **Splunk SIEM (Ubuntu Server)**
 - Splunk Enterprise deployment
 - Custom dashboards for security monitoring
