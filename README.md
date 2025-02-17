@@ -99,6 +99,6 @@ A comprehensive security lab environment designed for security testing, monitori
 | Splunk Enterprise | [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html) | Security Monitoring |
 | Splunk Universal Forwarder    | [Splunk Universal Forwarder](https://www.splunk.com/en_us/download/universal-forwarder.html) | Log Forwarding to Splunk           |
 | Sysmon | [Microsoft Sysmon](https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon) | Advanced Endpoint Logging |
-| Atomic Red Team | [GitHub Repository](https://github.com/redcanaryco/atomic-red-team) | Attack Simulation Framework |
+| Atomic Red Team | [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team) | Attack Simulation Framework |
 
  
