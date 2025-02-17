@@ -92,8 +92,8 @@ A comprehensive security lab environment designed for security testing, monitori
 
 | **Component** | **Download Link** | **Purpose** |
 |---------------|-------------------|-------------|
-| Windows Server 2025 | [Microsoft Evaluation Center](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025) | Domain Controller |
-| Ubuntu Server | [Ubuntu](https://ubuntu.com/download/server) | Splunk SIEM Platform |
+| Windows Server 2025 | [Microsoft  Server 2025](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025) | Domain Controller |
+| Ubuntu Server | [Ubuntu Server](https://ubuntu.com/download/server) | Splunk SIEM Platform |
 | Windows 10 Pro | [Windows 10 Pro](https://www.microsoft.com/en-ca/software-download/windows10) | Domain Workstation |
 | Kali Linux | [Kali Images](https://www.kali.org/get-kali/#kali-installer-images) | Attack Platform |
 | Splunk Enterprise | [Splunk Enterprise](https://www.splunk.com/en_us/download/splunk-enterprise.html) | Security Monitoring |
