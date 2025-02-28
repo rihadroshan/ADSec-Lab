@@ -56,7 +56,7 @@ A comprehensive security lab environment designed for security testing, monitori
 - Vulnerable software for testing (configurable)
 
 ### **Attack Platform (Kali Linux)**
-- Preinstalled penetration testing tools
+- Penetration testing tools
 - Atomic Red Team framework for attack automation
 
 ## **Security Monitoring & Attack Simulation**  
