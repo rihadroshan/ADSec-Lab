@@ -59,7 +59,6 @@ A comprehensive security lab environment designed for security testing, monitori
 - Preinstalled penetration testing tools
 - Atomic Red Team framework for attack automation
 - Custom scripts for common AD attacks
-- Metasploit Framework and other exploitation tools
 
 ## **Security Monitoring & Attack Simulation**  
 
