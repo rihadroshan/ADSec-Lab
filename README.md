@@ -3,6 +3,7 @@
 
 A comprehensive security lab environment designed for security testing, monitoring, and attack simulation. This environment includes an Active Directory domain, Splunk for log analysis, and a dedicated security testing infrastructure.  
 
+
 ## **Network Architecture**  
 
 ![Network Infrastructure](./assets/network-diagram.png)  
