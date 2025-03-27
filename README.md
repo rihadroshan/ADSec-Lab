@@ -8,6 +8,7 @@ A comprehensive security lab environment designed for security testing, monitori
 
 ![Network Infrastructure](./assets/network-diagram.png)  
 
+
 ### **Components**
 
 - **Domain:** Webcorp
