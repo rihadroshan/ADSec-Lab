@@ -8,6 +8,7 @@ A comprehensive security lab environment designed for security testing, monitori
 
 ### **Components**
 
+
 - **Domain:** Webcorp
 - **Network Range:** 192.168.1.0/24
 - **Key Systems:**
